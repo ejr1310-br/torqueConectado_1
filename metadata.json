@@ -1,0 +1,6 @@
+{
+  "name": "Engenharia de Torque & Automação 4.0",
+  "description": "Portal e blog de engenharia mecânica focado em aperto crítico, metrologia de torque, automação industrial e qualidade na Indústria 4.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
